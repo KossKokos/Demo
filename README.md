@@ -13,3 +13,4 @@ Watch tutorial on YouTube
 1. Open index.html in your browser.
 
 ## Planning
+## Testing
