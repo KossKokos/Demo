@@ -18,4 +18,4 @@ Watch tutorial on YouTube
 ## Planning
 
 1) First step is to init repository
-## Testing
+2) Second step is to create a structure
