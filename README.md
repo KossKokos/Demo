@@ -13,4 +13,6 @@ Watch tutorial on YouTube
 1. Open index.html in your browser.
 
 ## Planning
+
+1) First step is to init repository
 ## Testing
