@@ -15,3 +15,7 @@ Watch tutorial on YouTube
 ## Testing
 
 1) Step #1 is to init repository
+## Planning
+
+1) First step is to init repository
+## Testing
