@@ -13,3 +13,5 @@ Watch tutorial on YouTube
 1. Open index.html in your browser.
 
 ## Testing
+
+1) Step #1 is to init repository
